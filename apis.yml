@@ -1,8 +1,28 @@
 aid: comprehensive-pharmacy-services
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/comprehensive-pharmacy-services.png
 name: Comprehensive Pharmacy Services
-description: 'Comprehensive Pharmacy Services is a company surfaced as a portfolio company of nea and
-  added to the API Evangelist network as a stub for enrichment. Sector: digital-health. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'Comprehensive Pharmacy Services, now operating as CPS Solutions, LLC, is a
+  healthcare company with more than 50 years of experience providing pharmacy and hospital
+  solutions across the care continuum. It serves independent hospitals, health systems,
+  integrated delivery networks (IDNs), and specialized health facilities with specialty
+  pharmacy, pharmacy management, telepharmacy (24/7/365 support), 340B program compliance,
+  supply chain management, rehabilitation services, and consulting. The company operates
+  two proprietary SaaS platforms — CPS Optimizer for pharmacy management and TherigySTM
+  for specialty pharmacy management — supported by 2,500+ healthcare professionals serving
+  800+ customers across the United States and Puerto Rico. No public API or developer
+  program is currently published; this profile captures the company identity and public
+  web surface.'
 url: https://raw.githubusercontent.com/api-evangelist/comprehensive-pharmacy-services/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Digital Health
+- Pharmacy
+- Healthcare
+- Specialty Pharmacy
+- Telepharmacy
+- Hospital
+- 340B
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.cpspharm.com
+  url: https://cps.com
+- type: Blog
+  url: https://perspectives.cps.com
+- type: Support
+  url: https://cps.com/contact-us
+- type: Login
+  url: https://resources.therigy.com/#!/login
+- type: PrivacyPolicy
+  url: https://cps.com/consumer-privacy-notice
+- type: TermsOfService
+  url: https://cps.com/terms-and-conditions
+- type: DomainSecurity
+  url: security/comprehensive-pharmacy-services-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
