@@ -35,6 +35,9 @@ description: 'Comprehensive Pharmacy Services, now operating as CPS Solutions, L
   program is currently published; this profile captures the company identity and public
   web surface.'
 url: https://raw.githubusercontent.com/api-evangelist/comprehensive-pharmacy-services/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer program is currently published; this profile captures the company identity and public web surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
