@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Comprehensive Pharmacy Services is a company surfaced as a portfolio company of nea and added to the API Evangelist network as a stub for enrichment. Sector: digital-health. This profile is a lead awaiting the enrichment pipeline.
+Comprehensive Pharmacy Services, now operating as CPS Solutions, LLC, is a healthcare company with more than 50 years of experience providing pharmacy and hospital solutions across the care continuum. It serves independent hospitals, health systems, integrated delivery networks (IDNs), and specialized health facilities with specialty pharmacy, pharmacy management, telepharmacy (24/7/365 support), 340B program compliance, supply chain management, rehabilitation services, and consulting. The company operates two proprietary SaaS platforms — CPS Optimizer for pharmacy management and TherigySTM for specialty pharmacy management — supported by 2,500+ healthcare professionals serving 800+ customers across the United States and Puerto Rico. No public API or developer program is currently published; this profile captures the company identity and public web surface.
 
-Backed by: nea — https://www.cpspharm.com
+**Areas:** Company · Digital Health · Pharmacy · Healthcare · Specialty Pharmacy · Telepharmacy · Hospitals · 340B · Software-as-a-Service
+
+## Comprehensive Pharmacy Services on APIs.io
+
+Everything profiled for Comprehensive Pharmacy Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/comprehensive-pharmacy-services/](https://apis.io/providers/comprehensive-pharmacy-services/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Comprehensive Pharmacy Services Domain Security](https://apis.io/security/comprehensive-pharmacy-services/comprehensive-pharmacy-services-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cps.com)
+- [Support](https://cps.com/contact-us)
+- [Blog](https://perspectives.cps.com/tag/articles)
+- [Terms of service](https://cps.com/terms-and-conditions)
+- [Privacy policy](https://cps.com/consumer-privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 11.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/comprehensive-pharmacy-services/](https://apis.io/providers/comprehensive-pharmacy-services/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Comprehensive Pharmacy Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/comprehensive-pharmacy-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
